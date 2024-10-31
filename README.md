@@ -17,7 +17,6 @@ A Cognitive Neuroscience & Computer Science Student from the University of Toron
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arelbahaencin/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/arelbahaencin/)
-
 ---
 
 ### Languages and Tools:
