@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Arel]
+# Hi 👋, I'm Arel
 A Cognitive Neuroscience & Computer Science Student from the University of Toronto
 
 ---
