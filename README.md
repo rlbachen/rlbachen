@@ -60,14 +60,6 @@ A Cognitive Neuroscience & Computer Science Student at the University of Toronto
 
 ---
 
-## 📈 GitHub Stats
-
-![Arel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlbachen&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rlbachen&layout=compact&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 
 Feel free to **connect with me** through [LinkedIn](https://www.linkedin.com/in/arelbahaencin/) or [Instagram](https://www.instagram.com/arelbahaencin/).
