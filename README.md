@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Arel!
 
-A Cognitive Neuroscience & Computer Science Student at the University of Toronto.
+A Cognitive Neuroscience Student at the University of Toronto.
 
 ---
 
 ## 🔬 About Me
 
-- 🎓 **Student** at the University of Toronto, specializing in Cognitive Neuroscience & Computer Science.
-- 🤖 **Research Assistant** at TIP Research Lab (University of Toronto, Scarborough).
-- 🌱 **Currently Learning**: Machine Learning, Data Science, and AI.
+- 🎓 **Student** at the University of Toronto, specializing in Cognitive Neuroscience.
+- 🤖 **Research Assistant** at CoNBSens Lab and TIP Research Lab.
 - 💬 **Ask Me About**: Cognitive neuroscience, machine learning, and related research.
-
 ---
 
 ## 🌐 Connect with Me
