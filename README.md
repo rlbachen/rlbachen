@@ -7,7 +7,7 @@ A Cognitive Neuroscience Student at the University of Toronto.
 ## 🔬 About Me
 
 - 🎓 **Student** at the University of Toronto, specializing in Cognitive Neuroscience.
-- 🤖 **Research Assistant** at CoNSens Lab and TIP Research Lab.
+- 🤖 **Research Assistant** at CoNSens Lab.
 - 💬 **Ask Me About**: Cognitive neuroscience, machine learning, and related research.
 ---
 
