@@ -55,6 +55,6 @@ A Cognitive Neuroscience Student at the University of Toronto.
 
 ## 📫 How to Reach Me
 
-Feel free to **connect with me** through [LinkedIn](https://www.linkedin.com/in/arelbahaencin/) or [Instagram](https://www.instagram.com/arelbahaencin/).
+Feel free to **connect with me** through [LinkedIn](https://www.linkedin.com/in/arelbahaencin/)
 
 ---
