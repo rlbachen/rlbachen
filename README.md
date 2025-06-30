@@ -1,6 +1,6 @@
 <!-- README.md — Arel Baha Encin -->
 
-<h1 align="center">Hi, I’m Arel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="left">Hello There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="left">
   🧠  <strong>Cognitive Neuroscience undergraduate</strong> @ University of Toronto<br/>
