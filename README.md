@@ -20,7 +20,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,r,matlab,bash&perline=8" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,r,matlab,bash,shell&perline=8" alt="Programming Languages" />
 </p>
 
 ### 🛠️ Frameworks & Tools
