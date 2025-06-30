@@ -18,8 +18,8 @@
 
 ## ⚙️ Toolbelt
 
-p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,r,matlab,bash" alt="Programming Languages Icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,ts,r,matlab,bash,shell" alt="Programming Languages Icons" />
 </p>
 
 </details>
