@@ -25,7 +25,7 @@
 
 ### 🛠️ Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,figma,pytorch,tensorflow,keras,pandas,numpy,sklearn,docker,git,aws,cloudflare,jupyter,office&perline=8" alt="Frameworks and Tools" />
+  <img src="https://skillicons.dev/icons?i=react,figma,pytorch,tensorflow,sklearn,docker,git,aws,cloudflare,office&perline=8" alt="Frameworks and Tools" />
 </p>
 
 > <em>“Neuroscience needs better code — and coders need bigger questions.”</em>
