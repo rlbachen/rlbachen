@@ -18,10 +18,14 @@
 
 ## ⚙️ Toolbelt
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,ts,r,matlab,bash,shell" alt="Programming Languages Icons" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,r,matlab,bash&perline=8" alt="Programming Languages" />
 </p>
 
-</details>
+### 🛠️ Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,pytorch,tensorflow,keras,pandas,numpy,sklearn,docker,git,aws,cloudflare,jupyter,office&perline=8" alt="Frameworks and Tools" />
+</p>
 
 > <em>“Neuroscience needs better code — and coders need bigger questions.”</em>
