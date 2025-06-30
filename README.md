@@ -17,8 +17,6 @@
 ---
 
 ## ⚙️ Toolbelt
-<details>
-<summary><strong>Languages, Frameworks & Utilities</strong></summary>
 
 p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,r,matlab,bash" alt="Programming Languages Icons" />
