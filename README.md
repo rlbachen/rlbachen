@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Arel!
 
-A Cognitive Neuroscience Student at the University of Toronto.
-
----
 
 ## 🔬 About Me
 
