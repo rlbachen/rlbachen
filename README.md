@@ -5,10 +5,10 @@
 <p align="left">
   🧠  <strong>Cognitive Neuroscience undergraduate</strong> @ University of Toronto<br/>
   🔬  Research Assistant — CoNSens Lab <br/>
-  💻  Turning brain data into code (Python • MATLAB • TypeScript)
+  💻  Turning brain data into code
 </p>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/arelbahaencin/"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"></a>
   <a href="mailto:arel.encin@mail.utoronto.ca"><img alt="Email" src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://github.com/arelbahaencin"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
