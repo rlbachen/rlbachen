@@ -10,7 +10,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arelbahaencin/"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="mailto:arel.encin@mail.utoronto.ca"><img alt="Email" src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="mailto:arelencin11@gmail.com"><img alt="Email" src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://github.com/arelbahaencin"><img alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
 </div>
 
