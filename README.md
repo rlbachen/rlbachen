@@ -27,8 +27,6 @@
   <img src="https://skillicons.dev/icons?i=react,figma,pytorch,tensorflow,sklearn,docker,git,aws,cloudflare,office&perline=8" alt="Frameworks and Tools" />
 </p>
 
-> <em>“Neuroscience needs better code — and coders need bigger questions.”</em>
-
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rlbachen&show_icons=true&locale=en&layout=compact" alt="rlbachen" /></p>
