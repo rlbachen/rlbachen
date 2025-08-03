@@ -4,7 +4,6 @@
 
 <p align="left">
   🧠  <strong>Cognitive Neuroscience undergraduate</strong> @ University of Toronto<br/>
-  🔬  Research Assistant — CoNSens Lab <br/>
   💻  Turning brain data into code
 </p>
 
