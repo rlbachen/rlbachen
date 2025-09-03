@@ -4,7 +4,7 @@
 
 <p align="left">
   🧠  <strong>Cognitive Neuroscience undergraduate</strong> @ University of Toronto<br/>
-  💻  <strong>Computational Neuroscience Research Trainee</strong>strong> @ Krembil Centre for Neuroinformatics, CAMH<br/>
+  💻  <strong>Computational Neuroscience Research Trainee</strong> @ Krembil Centre for Neuroinformatics, CAMH<br/>
 </p>
 
 <div align="left">
