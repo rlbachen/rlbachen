@@ -4,7 +4,7 @@
 
 <p align="left">
   🧠  <strong>Cognitive Neuroscience undergraduate</strong> @ University of Toronto<br/>
-  💻  <strong>Computational Neuroscience Research Trainee<strong> @ Krembil Centre for Neuroinformatics, CAMH
+  💻  <strong>Computational Neuroscience Research Trainee<strong> @ Krembil Centre for Neuroinformatics, CAMH<br/>
 </p>
 
 <div align="left">
@@ -19,10 +19,10 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,r,matlab,bash&perline=8" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,r,matlab,octave,bash&perline=8" alt="Programming Languages" />
 </p>
 
 ### 🛠️ Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,figma,pytorch,tensorflow,sklearn,docker,git,aws,cloudflare,office&perline=8" alt="Frameworks and Tools" />
+  <img src="https://skillicons.dev/icons?i=react,figma,pytorch,tensorflow,sklearn,docker,git,aws,cloudflare,latex,linux,office&perline=8" alt="Frameworks and Tools" />
 </p>
