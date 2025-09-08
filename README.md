@@ -26,3 +26,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,figma,pytorch,tensorflow,sklearn,docker,git,aws,cloudflare,latex,linux,office&perline=8" alt="Frameworks and Tools" />
 </p>
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rlbachen&show_icons=true&locale=en&layout=compact" alt="rlbachen" /></p>
