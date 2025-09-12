@@ -3,9 +3,11 @@
 <h1 align="left">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="left">
-  <strong>Cognitive Neuroscience undergraduate</strong> @ University of Toronto<br/>
-  <strong>Computational Neuroscience Research Trainee</strong> @ Krembil Centre for Neuroinformatics, CAMH<br/>
-  <strong>Computational Neuroscience Research Assistant</strong> @ CoNSens Laboratory, University of Toronto<br/>
+<ul>
+    <li><strong>Cognitive Neuroscience undergraduate</strong> @ University of Toronto</li>
+    <li><strong>Computational Neuroscience Research Trainee</strong> @ Krembil Centre for Neuroinformatics, CAMH</li>
+    <li><strong>Computational Neuroscience Research Assistant</strong> @ CoNSens Laboratory, University of Toronto</li>
+  </ul>
 </p>
 
 <div align="left">
