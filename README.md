@@ -4,12 +4,16 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,javascript,typescript,r,matlab,octave,bash&perline=8" alt="Programming Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,javascript,typescript,r,matlab,octave,bash&perline=8" alt="Programming Languages" />
 </p>
 
 ### 🛠️ Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,figma,pytorch,tensorflow,sklearn,docker,git,aws,cloudflare,latex,linux,office&perline=8" alt="Frameworks and Tools" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=apptainer,aws,cuda,cloudflare,docker,figma,git,huggingface,jupyter,latex,linux,matplotlib,numpy,ollama,overleaf,pytorch,react,scikitlearn,tmux"
+    />
+  </a>
 </p>
 
 ---
